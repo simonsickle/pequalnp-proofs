@@ -1,0 +1,1 @@
+ACCEPTED (check): PEqualNP.Outside.L_alg_999999006; axioms [propext, Quot.sound, Classical.choice]; kernel re-checked 1682 constants.
